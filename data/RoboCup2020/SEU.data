@@ -1,0 +1,5 @@
+classes= 2
+train  = /home/chenyuhang/darknet/data/RoboCup2020/train.txt
+valid  = /home/chenyuhang/darknet/data/RoboCup2020/test.txt
+names  = /home/chenyuhang/darknet/data/RoboCup2020/SEU.names
+backup = /home/chenyuhang/darknet/data/RoboCup2020/backup_cyh
